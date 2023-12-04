@@ -5,12 +5,11 @@ body {
 }
 
 h2 {
-    font-size: 3rem;
-    color: #1472b7;
-    font-weight: bold;
+    font-size: 50px;
+    color: #0890f1;
     letter-spacing: 3px;
     text-transform: uppercase;
-    margin-bottom: 24px;
+    margin-bottom: 20px;
 }
 
 p {
@@ -25,13 +24,13 @@ section {
     background-image: linear-gradient(rgba(0, 0, 0, .6), rgba(49, 168, 221, 2), rgba(0, 0, 0, .6)), url('../images/banner.png');
     background-size: cover;
     background-repeat: no-repeat;
-    height: 600px;
+    height: 550px;
     padding-top: 60px;
     border-bottom: 1px solid #33A8d8;
 }
 
 .banner .banner-content {
-    color: white;
+    color: aliceblue;
     width: 600px;
     margin: auto;
     text-align: center;
@@ -39,7 +38,7 @@ section {
 
 .banner h1 {
     font-size: 3rem;
-    font-weight: 900;
+    font-weight: bold;
     text-transform: uppercase;
     color: transparent;
     background: -webkit-linear-gradient(#30a0cc, #1472b7);
